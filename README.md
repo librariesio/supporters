@@ -4,6 +4,7 @@ Libraries.io is a project of Brave New Software. The project is supported by the
 
 * [Brave New Software](http://www.bravenewsoftware.org/)
 * [The Alfred P. Sloan Foundation](https://sloan.org/programs/digital-technology)
+* [The Ford Foundation](https://www.fordfoundation.org/work/challenging-inequality/internet-freedom/)
 
 This repository contains the details of our contractual obligations to our fiscal sponsor Brave New Software and any commitments we have made in exchange for financial support. This respository also contains any successful application for financial support in full. 
 
